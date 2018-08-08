@@ -17,11 +17,11 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        
-        <li><router-link to='/home'>我的主页</router-link> </li>
+
+        <li><router-link to='/course'>专题课</router-link> </li>
         <li><router-link to='/notes'>我的页面</router-link> </li>
       </ul>
-    
+
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">登陆</a></li>
         <li><a href="#">注册</a></li>
